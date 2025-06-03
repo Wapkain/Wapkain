@@ -1,5 +1,7 @@
 [🇹🇷 Türkçe](./README.md) | [🇬🇧 English](./README.en.md)
 
+<h3 align="center"> 🌟 Wapkain | Abdullah ARSLANTAŞ</h3>
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
 </p>
@@ -55,8 +57,8 @@ Merhaba! Ben **Wapkain** — yazılım geliştirme yolculuğunda tutkulu, sürek
 
 ### 📫 Bana Ulaş
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/wapkain.dev)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:wapkain.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/arslanntas)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:wapkain0@gmail.com)
 
 ---
 
